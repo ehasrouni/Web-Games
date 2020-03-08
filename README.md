@@ -7,7 +7,7 @@ A crossword puzzle game with multiple difficulty levels (with Angular). The game
 -English tutorial, french tutorial follows-
 
 
-In order to run this project:
+## In order to run this project:
 
 1 - Run the npm-install command in the client and server repositories if npm and its packages are not already installed
 
@@ -16,7 +16,7 @@ In order to run this project:
 
 
 
-In order to run unit tests:
+## In order to run unit tests:
 
 Execute `ng test`  to launch unit tests using  [Karma](https://karma-runner.github.io) on the client.
 
@@ -25,7 +25,7 @@ Execute `ng test --watch=false --code-coverage` to get a test report with more i
 Execute `npm test` to launch unit tests using [Mocha](https://mochajs.org/) on the server.
 
 
-Linting:
+## Linting:
 
 In order to start linting on this project, execute 'npm run lint' to launch TSLint
 
